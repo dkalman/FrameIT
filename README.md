@@ -1,2 +1,2 @@
 # FrameIT
-*Custom Made Picture Frame
+*Custom Made Digital Picture Frame
